@@ -25,7 +25,7 @@ end
 
 def remove_element_from_start_of_array(array)
   pets = ["wow","cat", "dog", "bird", "hamster" ]
-  
+  w_ow = pets.unshift
 end
 
 def retrieve_element_from_index(array, index_number)
