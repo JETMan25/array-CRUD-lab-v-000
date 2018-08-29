@@ -35,7 +35,7 @@ end
 
 def retrieve_first_element_from_array(array)
   pets = ["wow", "cat", "dog", "bird", "hamster"]
-  pets[0]
+  pets.first
 end
 
 def retrieve_last_element_from_array(array)
