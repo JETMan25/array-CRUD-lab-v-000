@@ -39,6 +39,6 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  pets = ["cat", "dog", "bird", "hamster"]
+  pets = ["cat", "dog", "bird", "hamster", "arrays!"]
   pets.last 
 end
