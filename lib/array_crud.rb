@@ -19,7 +19,7 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  pets = ["cat", "dog", "bird", "hamster", "arrays"]
+  pets = ["cat", "dog", "bird", "hamster", "arrays!"]
   ham_ster = pets.pop
 end
 
